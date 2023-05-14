@@ -1,0 +1,35 @@
+body{
+		background-color: red;
+		color: darkred;
+		font-family: sans-serif;
+		/*font-size: 48rem;*/
+
+}
+
+input {
+		caret-color: #5050FF;
+		color: black;
+		background: hotpink;
+		font-weight: 900; 
+		font-size: 3vw;
+		padding:  
+}
+
+#elem{
+		background-color: darkred;
+		border: solid;
+		margin: 20px;
+		border-width: 4px;
+		border-color: seagreen;
+		border-radius: 4px;
+    }
+
+.box {
+		background-color: gold;
+		font-size: 5vw;
+		padding: 10vw;
+		margin: 5vw;
+		border: solid;
+    }
+
+                                                             
